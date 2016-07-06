@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ParticlesContainerXML>
+ 	<Particles>
+ 		<Particle name="explosion">
+ 			<StartDelay>0</StartDelay>
+ 			<StartLifeTime>5</StartLifeTime>
+ 			<StartSpeed>3.5</StartSpeed>
+ 			<StartSizeMax>0.5</StartSizeMax>
+ 			<StartSizeMin>0</StartSizeMin>
+ 			<StartRotation>0</StartRotation>
+ 			<StartColor>0x68FF00D3</StartColor>
+ 			<StartColorMax>0xFFF8006E</StartColorMax>
+ 			<StartColorMin>0xAB8A0096</StartColorMin>
+ 			<EmissionRate>50</EmissionRate>
+ 			<MaxParticle>500</MaxParticle>
+ 			<ShapeType>0</ShapeType>
+ 			<Loop>true</Loop>
+ 			<MaterialName>default</MaterialName>
+ 		</Particle>
+ 		<Particle name="star">
+ 			<StartDelay>0</StartDelay>
+ 			<StartLifeTime>3</StartLifeTime>
+ 			<StartSpeed>-0.5</StartSpeed>
+ 			<StartSizeMax>0.6</StartSizeMax>
+ 			<StartSizeMin>0.25</StartSizeMin>
+ 			<StartRotation>0</StartRotation>
+ 			<StartColor>0xFFFFFFFF</StartColor>
+ 			<StartColorMax>0xFFFFFFFF</StartColorMax>
+ 			<StartColorMin>0xFFFFFF00</StartColorMin>
+ 			<EmissionRate>10</EmissionRate>
+ 			<MaxParticle>300</MaxParticle>
+ 			<ShapeType>1</ShapeType>
+ 			<Loop>true</Loop>
+ 			<MaterialName>Star</MaterialName>
+ 		</Particle>
+ 	</Particles>
+ </ParticlesContainerXML>

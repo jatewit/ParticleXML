@@ -1,2 +1,2 @@
 # ParticleXML
-Creating particle system and assign variable from xml
+Creating particle system and assigning data using the xml serialization.
